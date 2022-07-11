@@ -46,8 +46,10 @@ I'm collaborating with [U-Care Medical](https://u-caremedical.com/), a spin-off 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ale142&show_icons=true&locale=en&layout=compact&hide=html,css&theme=tokyonight" alt="ale142" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ale142&show_icons=true&theme=tokyonight&locale=en" alt="ale142" />
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ale142&theme=tokyonight" />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ale142&show_icons=true&theme=tokyonight&locale=en" alt="ale142" />
+</p>
+
+<p align="center"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ale142&theme=tokyonight" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ale142" alt="ale142" /></a> </p>
