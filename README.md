@@ -30,7 +30,10 @@ Hello, I’m Alessandro, 24 years old from Italy. Currently I am Computer Engine
 
 I am passionate about everything relating to technology with a special focus on Web Applications and Cloud technologies such as Kubernetes and Docker. 
 
-I'm collaborating with [U-Care Medical](https://u-caremedical.com/), a spin-off startup of the Polytechnic of Turin building AI-based medical-grade algorithms. I'm doing with them an internship with thesis aim to develop a PoC of a cloud application to monitor ICU patients.
+Work Experience 💼:
+- [From March 2022 - October 2022] Internship with thesis in [U-Care Medical](https://u-caremedical.com/): develop a PoC of a cloud application to monitor ICU patients.
+- [October 2022 - now] Software Engineering at [U-Care Medical](https://u-caremedical.com/)
+
 
 
 
@@ -47,15 +50,18 @@ I'm collaborating with [U-Care Medical](https://u-caremedical.com/), a spin-off 
 </div>
 
 ## :fire: Stats 
-
+<table align="center">
+<tr>
+<td>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ale142&show_icons=true&locale=en&layout=compact&hide=html,css&theme=tokyonight" alt="ale142" /></p>
-
+</td>
+<td>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ale142&show_icons=true&theme=tokyonight&locale=en" alt="ale142" />
 </p>
+</td>
+</tr>
+</table>
 
-<p align="center"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ale142&theme=tokyonight" />
-</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ale142&theme=tokyonight" alt="ale142" /></a> </p>
 
 
