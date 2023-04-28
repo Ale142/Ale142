@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <div id = "header" style="width:480px" align="center"><img  src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300"></img></div>
 
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
-<h3 align="center">Computer Engineering Student</h3>
 <p align="center">
 <a href="https://twitter.com/alebacci9" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white" alt="alebacci9" /></a>
 <a href="https://ale142.github.io/"><img align="center" src="https://img.shields.io/badge/Website-orange?logo=Website&logoColor=white" /> </a>
@@ -26,13 +25,12 @@ Here are some ideas to get you started:
 <a href="mailto:ale.bacci142@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/GMail-red?logo=GMail&logoColor=white" alt="ale.bacci142@gmail.com" /></a>
 </p>
 
-Hello, I’m Alessandro, 24 years old from Italy. Currently I am Computer Engineering student enrolled in the Master of Science degree on Computer Networks & Cloud Computing at Polytechnic of Turin. 
-
-I am passionate about everything relating to technology with a special focus on Web Applications and Cloud technologies such as Kubernetes and Docker. 
+Hello, I’m Alessandro, 24 years old from Italy.
+I am passionate about everything relating to technology with a special focus on Web Applications, Healthcare and Cloud technologies such as Kubernetes and Docker.
 
 Work Experience 💼:
 - [From March 2022 - October 2022] Internship with thesis in [U-Care Medical](https://u-caremedical.com/): develop a PoC of a cloud application to monitor ICU patients.
-- [October 2022 - now] Software Engineering at [U-Care Medical](https://u-caremedical.com/)
+- [October 2022 - now] Full Stack Engineering at [U-Care Medical](https://u-caremedical.com/)
 
 
 
